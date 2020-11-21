@@ -1,7 +1,7 @@
 # Climbing Wall
 
-<img src="./pictures/putting_up_1.jpg" alt="Putting the wall up - Bear side" style="width:400px;"/>
-<img src="./pictures/putting_up_2.jpg" alt="Putting the wall up - Fox side" style="width:400px;"/>
+<img src="./pictures/putting_up_1.jpg" alt="Putting the wall up - Bear side" style="width:200px;"/>
+<img src="./pictures/putting_up_2.jpg" alt="Putting the wall up - Fox side" style="width:200px;"/>
 
 ## Installing Holds
 
@@ -13,6 +13,7 @@ Parts:
 * caulking
 * drill bit slightly larger than 1/4" diameter
 
+Steps:
 * Mark and drill holes that match the climbing-hold holes.  My hardware holes were setup exactly the same, regardless of the hold.
 * Apply caulking to each side of the plywood to seal the holes.  
     * You may not have to do this if it doesn't rain much I suppose
